@@ -8,7 +8,7 @@ dataset/
 generator/Messidor-2-master/
 projects/*/Augmented-Tiled-HRF/asset/
 projects/*/Augmented-Tiled-HRF/eval/
-projects/*/Augmented-Tiled-HRF/mini_test/
+projects/*/*/mini_test/
 projects/*/Augmented-Tiled-HRF/mini_test_output_tiled/
 projects/*/*/models/
 projects/*/*/epoch_change_tiledinfer/
